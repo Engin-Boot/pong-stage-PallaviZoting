@@ -3,7 +3,7 @@
 ## Feature
 
 Start new game or start game from same position and
-score after penulty point
+score after penalty point
 
 ## Acceptance Criteria
 
@@ -20,8 +20,8 @@ player is at start new game
 
   Given Player is playing game
 
-  When Slider miss ball and player scores penulty point
-and penulty point is not equal to three
+  When Slider miss ball and player scores penalty point
+and penalty point is not equal to three
 
-  Then Update score and penulty point of player and
+  Then Update score and penalty point of player and
 start game from same position and score
