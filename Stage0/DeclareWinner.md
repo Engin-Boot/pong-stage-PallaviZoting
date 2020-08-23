@@ -9,7 +9,7 @@ Compare score of two players and declare winner with highest score
 ### Scenario: Winner declaration to Player 1
 
   Given Player 1 is playing game versus computer or other player
-and penulty point equal to three
+and penalty point equal to three
 
   When Score of Player 1 is greater than Player 2 or computer
 
@@ -18,7 +18,7 @@ and penulty point equal to three
 ### Scenario: Winner declaration to Player 2 or computer
 
   Given Player 1 is playing game versus computer or other player
-and penulty point equal to three
+and penalty point equal to three
 
   When Score of Player 2 or computer is greater than Player 1
 
@@ -27,7 +27,7 @@ and penulty point equal to three
 ### Scenario: Tie or equal score
 
   Given Player 1 is playing game versus computer or other player
-and penulty point equal to three
+and penalty point equal to three
 
   When Score of Player 1 is same as Player 2 or computer
 
