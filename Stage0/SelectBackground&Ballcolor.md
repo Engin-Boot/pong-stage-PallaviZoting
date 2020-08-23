@@ -2,7 +2,7 @@
 
 ## Feature
 
-This is used to select background color and ball color
+Changes background color and ball color
 
 ## Acceptance Criteria
 
