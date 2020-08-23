@@ -1,8 +1,8 @@
 # Select-Player-and-enter-name
 
 ## Feature
-Select two player or versus computer game
-and enter name of the player
+
+Select two player or versus computer game and enter name of the player
 
 ## Acceptance Criteria
 
