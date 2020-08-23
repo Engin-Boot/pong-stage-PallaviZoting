@@ -1,15 +1,16 @@
-# Select Background and Ball color
+# Select-Background-and-Ball-color
 
 ## Feature
 
-Changes background color and ball color
+Changes color of background and ball
 
 ## Acceptance Criteria
 
 ### Scenario: Change background and ball color
 
-Given Player is at select backround and ball color settings after player selection
+  Given Player is at select backround and ball color
+settings after player selection
 
-When Player selects default color settings or any available color
+  When Player selects default color settings or any available color
 
-Then background color and ball color changes
+  Then background color and ball color changes
