@@ -1,7 +1,6 @@
 # Select-Player-and-enter-name
 
 ## Feature
-
 Select two player or versus computer game
 and enter name of the player
 
