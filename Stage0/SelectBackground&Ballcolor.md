@@ -8,7 +8,7 @@ Changes color of background and ball
 
 ### Scenario: Change background and ball color
 
-  Given Player is at select backround and ball color
+  Given Player is at select background and ball color
 settings after player selection
 
   When Player selects default color settings or any available color
