@@ -1,4 +1,4 @@
-# Exit_game
+# Exit-game
 
 ## Feature
 
