@@ -1,9 +1,7 @@
 # Score-count-increment
 
 ## Feature
-
-Increment score of player by one and update score
-count with penalty points
+Increment score of player by one and update score count with penalty points
 
 ## Acceptance Criteria
 
@@ -19,8 +17,7 @@ Then Increment the score of player 1 by one and update score count
 
 Given Player 1 is playing game versus computer or other player
 
-When Computer slider hits ball or other player slider hits ball
-and ball goes in opposite direction
+When Computer slider hits ball or other player slider hits ball and ball goes in opposite direction
 
 Then Increment the score of computer or player 2 by one and update score count
 
