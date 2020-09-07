@@ -15,5 +15,5 @@ When Player selects default color settings or any
 available color
 
 Then background color and ball color changes and
-“Select-Background-and-Ball-color” module calls 
+“Select-Background-and-Ball-color” module calls
 “Start-Game-Round” module
