@@ -3,10 +3,10 @@
 ## Start up Sequence
 
 The sequence is as follows : launch Pong game Application-->
-PongGame_Menu -->Select-Player-and-enter-name -->
+Pong-Game-Menu -->Select-Player-and-enter-name -->
 Select-Background-and-Ball-color -->Start-Game-Round -->
 Collision-Checker -->Score-count-increment -->Declare-Winner
--->Exit_game
+-->Exit-game
 
 ## Movement Initiation
 
